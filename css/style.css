@@ -1,7 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
   color: #1b161d;
-  background-color: #ffffff;
+  background-color: #000000;
 }
 
 .body-bg {
@@ -37,7 +37,7 @@ body {
 /*header section*/
 
 .hero_area {
-  background-color: #2801b9;
+  background-color: #00000000;
   background-image: url(../images/L.png);
   background-repeat: no-repeat;
   background-size: cover;
