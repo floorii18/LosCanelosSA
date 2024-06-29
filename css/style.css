@@ -476,7 +476,8 @@ a:focus {
 }
 
 .feature_detail-box {
-  margin: 35px auto 0 auto;
+  margin: 0mm auto 0 auto; /* Adjusted to 2mm space */
+  text-align: center; /* Ensure the text is centered */
 }
 
 .feature_detail-box h4 {
