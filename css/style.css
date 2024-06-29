@@ -303,7 +303,7 @@ a:focus {
 
 .slider_section .carousel-control-prev:hover,
 .slider_section .carousel-control-next:hover {
-  background-color: #292727;
+  background-color: #00000000;
   background-size: 12px;
 }
 
@@ -353,7 +353,7 @@ a:focus {
 
 .about_img-container {
   width: 225px;
-  background-color: #1ba1b9;
+  background-color: #00000000;
   height: 225px;
   border-radius: 100%;
   display: flex;
@@ -381,7 +381,7 @@ a:focus {
 
 /* who section */
 .who_section {
-  background-color: #2801b9;
+  background-color: #00000000;
 }
 
 .who_container {
@@ -445,7 +445,7 @@ a:focus {
 }
 
 .feature_img-container {
-  background-color: #1ba1b9;
+  background-color: #00000000;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -544,7 +544,7 @@ a:focus {
 /* info section */
 .info_section {
   position: relative;
-  background-color: #161616;
+  background-color: #00000000;
   font-family: "Poppins", sans-serif;
 }
 
@@ -624,12 +624,12 @@ a:focus {
 
 .footer_section {
   font-family: "Poppins", sans-serif;
-  background-color: #ffffff00;
+  background-color: #00000000;
   padding: 25px 20px;
 }
 
 .footer_section p {
-  color: #292929;
+  color: #00000000;
   margin: 0;
   text-align: center;
 }
