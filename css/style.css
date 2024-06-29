@@ -501,6 +501,11 @@ a:focus {
   text-align: center;
   font-size: 20px;
   margin-bottom: 0;
+  align-items: center;
+}
+
+.highlight {
+  color: #ffc46657;
 }
 
 .contact_section input,
@@ -517,7 +522,6 @@ a:focus {
 .col-md-10 {
   display: flex;
   flex-direction: column;
-  align-items: center;
 }
 
 .contact_form-container {
@@ -624,18 +628,18 @@ a:focus {
 
 .footer_section {
   font-family: "Poppins", sans-serif;
-  background-color: #00000000;
+  background-color: #403e3e;
   padding: 25px 20px;
 }
 
 .footer_section p {
-  color: #00000000;
+  color: #403e3e;
   margin: 0;
   text-align: center;
 }
 
 .footer_section a {
-  color: #292929;
+  color: #403e3e;
 }
 
 /* end footer section*/
