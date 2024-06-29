@@ -519,11 +519,6 @@ a:focus {
   margin-bottom: 25px;
 }
 
-.col-md-10 {
-  display: flex;
-  flex-direction: column;
-}
-
 .contact_form-container {
   padding: 45px 35px;
   width: 90%;
