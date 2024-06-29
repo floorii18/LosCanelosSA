@@ -488,7 +488,7 @@ a:focus {
 }
 
 .form_bg {
-  background-color: #00000000;
+  background-color: #62606062;
 }
 
 .contact_section h2 {
@@ -497,7 +497,7 @@ a:focus {
 }
 
 .contact_section p {
-  color: #f7b86aea;
+  color: #fff;
   text-align: center;
   font-size: 20px;
   margin-bottom: 0;
@@ -522,16 +522,6 @@ a:focus {
 .contact_form-container {
   padding: 45px 35px;
   width: 90%;
-}
-
-.contact_form-container button {
-  border: none;
-  background-color: #fddd33;
-  color: #fff;
-  padding: 12px 65px;
-  font-size: 16px;
-  border-radius: 5px;
-  text-transform: uppercase;
 }
 
 .contact_img-box img {
