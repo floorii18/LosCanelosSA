@@ -1,2 +1,2 @@
-Python 3.9.13
+Python 
 django==4.2
