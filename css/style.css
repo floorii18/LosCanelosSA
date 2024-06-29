@@ -5,7 +5,7 @@ body {
 }
 
 .body-bg {
-  background-image: url(../images/body-bg.png);
+  background-image: url(../images/L.png);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -38,7 +38,7 @@ body {
 
 .hero_area {
   background-color: #2801b9;
-  background-image: url(../images/hero.jpg);
+  background-image: url(../images/L.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
