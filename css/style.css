@@ -488,7 +488,7 @@ a:focus {
 }
 
 .form_bg {
-  background-color: #62606062;
+  background-color: #00000000;
 }
 
 .contact_section h2 {
@@ -502,10 +502,6 @@ a:focus {
   font-size: 20px;
   margin-bottom: 0;
   align-items: center;
-}
-
-.highlight {
-  color: #ffc46657;
 }
 
 .contact_section input,
