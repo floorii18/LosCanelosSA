@@ -386,6 +386,9 @@ a:focus {
 /* who section */
 .who_section {
   background-color: #00000000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .who_container {
@@ -399,19 +402,6 @@ a:focus {
   color: #fff;
 }
 
-.who_section .who_img-box {
-  background-color: #00000000;
-  border-radius: 100%;
-  padding: 50px;
-  transform: scale(1.01) translateX(-10%);
-  overflow: hidden;
-  width: 60%;
-}
-
-.who_img-box img {
-  width: 100%;
-}
-
 .who_section .who_deail-box {
   text-align: right;
   width: 40%;
@@ -422,7 +412,7 @@ a:focus {
 }
 
 .who_section .who_deail-box a {
-  display: inline-block;
+  display: center;
   background-color: #fddd33;
   color: #fff;
   font-size: 15px;
@@ -432,6 +422,19 @@ a:focus {
 
 .who_container {
   display: flex;
+}
+
+.read-more-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #fddd33; /* Color de fondo */
+  color: #000000; /* Color del texto */
+  text-decoration: none; /* Sin subrayado */
+  border-radius: 5px; /* Bordes redondeados */
+  transition: background-color 0.3s; /* Transición suave para el cambio de color de fondo */
+}
+.read-more-button:hover {
+  background-color: #ffbb00; /* Color de fondo al pasar el ratón */
 }
 
 /* end who section */
